@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\Cslculator\bin\Debug\netcoreapp3.1\Cslculator.exe
+C:\Users\Admin\source\repos\Cslculator\bin\Debug\netcoreapp3.1\Cslculator.deps.json
+C:\Users\Admin\source\repos\Cslculator\bin\Debug\netcoreapp3.1\Cslculator.runtimeconfig.json
+C:\Users\Admin\source\repos\Cslculator\bin\Debug\netcoreapp3.1\Cslculator.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Cslculator\bin\Debug\netcoreapp3.1\Cslculator.dll
+C:\Users\Admin\source\repos\Cslculator\bin\Debug\netcoreapp3.1\Cslculator.pdb
+C:\Users\Admin\source\repos\Cslculator\obj\Debug\netcoreapp3.1\Cslculator.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Cslculator\obj\Debug\netcoreapp3.1\Cslculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Cslculator\obj\Debug\netcoreapp3.1\Cslculator.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Cslculator\obj\Debug\netcoreapp3.1\Cslculator.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Cslculator\obj\Debug\netcoreapp3.1\Cslculator.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Cslculator\obj\Debug\netcoreapp3.1\Cslculator.dll
+C:\Users\Admin\source\repos\Cslculator\obj\Debug\netcoreapp3.1\Cslculator.pdb
+C:\Users\Admin\source\repos\Cslculator\obj\Debug\netcoreapp3.1\Cslculator.genruntimeconfig.cache
